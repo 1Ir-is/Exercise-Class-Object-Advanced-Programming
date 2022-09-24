@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 4\\Problem 4.csproj",
-      "projectName": "Problem 4",
-      "projectPath": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 4\\Problem 4.csproj",
+      "projectUniqueName": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 4\\Opinion Poll.csproj",
+      "projectName": "Opinion Poll",
+      "projectPath": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 4\\Opinion Poll.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 4\\obj\\",
       "projectStyle": "PackageReference",

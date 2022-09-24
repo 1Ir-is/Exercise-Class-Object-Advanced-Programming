@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 2\\Problem 2.csproj",
-      "projectName": "Problem 2",
-      "projectPath": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 2\\Problem 2.csproj",
+      "projectUniqueName": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 2\\Creating Constructors.csproj",
+      "projectName": "Creating Constructors",
+      "projectPath": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 2\\Creating Constructors.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 2\\obj\\",
       "projectStyle": "PackageReference",

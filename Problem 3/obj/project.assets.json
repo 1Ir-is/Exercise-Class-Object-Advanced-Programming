@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 3\\Problem 3.csproj",
-      "projectName": "Problem 3",
-      "projectPath": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 3\\Problem 3.csproj",
+      "projectUniqueName": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 3\\Oldest Family Member.csproj",
+      "projectName": "Oldest Family Member",
+      "projectPath": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 3\\Oldest Family Member.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 3\\obj\\",
       "projectStyle": "PackageReference",

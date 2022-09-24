@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 6\\Problem 6.csproj",
-      "projectName": "Problem 6",
-      "projectPath": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 6\\Problem 6.csproj",
+      "projectUniqueName": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 6\\Company Roster.csproj",
+      "projectName": "Company Roster",
+      "projectPath": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 6\\Company Roster.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 6\\obj\\",
       "projectStyle": "PackageReference",

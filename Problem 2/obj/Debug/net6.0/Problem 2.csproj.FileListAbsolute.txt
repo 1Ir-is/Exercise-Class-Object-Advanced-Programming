@@ -1,0 +1,15 @@
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 2\bin\Debug\net6.0\Problem 2.exe
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 2\bin\Debug\net6.0\Problem 2.deps.json
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 2\bin\Debug\net6.0\Problem 2.runtimeconfig.json
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 2\bin\Debug\net6.0\Problem 2.dll
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 2\bin\Debug\net6.0\Problem 2.pdb
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 2\obj\Debug\net6.0\Problem 2.csproj.AssemblyReference.cache
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 2\obj\Debug\net6.0\Problem 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 2\obj\Debug\net6.0\Problem 2.AssemblyInfoInputs.cache
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 2\obj\Debug\net6.0\Problem 2.AssemblyInfo.cs
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 2\obj\Debug\net6.0\Problem 2.csproj.CoreCompileInputs.cache
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 2\obj\Debug\net6.0\Problem 2.dll
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 2\obj\Debug\net6.0\refint\Problem 2.dll
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 2\obj\Debug\net6.0\Problem 2.pdb
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 2\obj\Debug\net6.0\Problem 2.genruntimeconfig.cache
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 2\obj\Debug\net6.0\ref\Problem 2.dll

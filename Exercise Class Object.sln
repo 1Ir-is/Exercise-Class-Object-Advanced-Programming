@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 3", "Problem 3", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3", "Problem 3\Problem 3.csproj", "{D6966075-0896-4108-953C-CA83C2879FF1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 4", "Problem 4", "{83A697A6-8746-4A78-84CD-C7605CB83A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4", "Problem 4\Problem 4.csproj", "{6EDE92A6-DEA1-47CB-95CE-5603C752B0E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,10 @@ Global
 		{D6966075-0896-4108-953C-CA83C2879FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6966075-0896-4108-953C-CA83C2879FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6966075-0896-4108-953C-CA83C2879FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EDE92A6-DEA1-47CB-95CE-5603C752B0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDE92A6-DEA1-47CB-95CE-5603C752B0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDE92A6-DEA1-47CB-95CE-5603C752B0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDE92A6-DEA1-47CB-95CE-5603C752B0E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +49,7 @@ Global
 		{591643FA-71B9-4223-B609-22DBEC82AE1C} = {D445D250-7A14-4E95-B0F8-DCE038091C20}
 		{70580BB7-29AD-4E4E-9D5B-5C97B2FAC029} = {5DF6DFC1-94DA-4191-A46D-AA7DE7842560}
 		{D6966075-0896-4108-953C-CA83C2879FF1} = {4899A590-D9B6-463D-B354-4847AD67116F}
+		{6EDE92A6-DEA1-47CB-95CE-5603C752B0E3} = {83A697A6-8746-4A78-84CD-C7605CB83A96}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {254082F2-E507-40B6-A768-109930AD6511}

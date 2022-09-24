@@ -3,33 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 1", "Problem 1", "{D445D250-7A14-4E95-B0F8-DCE038091C20}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 1. Define a class Person", "Problem 1. Define a class Person", "{D445D250-7A14-4E95-B0F8-DCE038091C20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1", "Problem 1\Problem 1.csproj", "{591643FA-71B9-4223-B609-22DBEC82AE1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Define a class Person", "Problem 1\Define a class Person.csproj", "{591643FA-71B9-4223-B609-22DBEC82AE1C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 2", "Problem 2", "{5DF6DFC1-94DA-4191-A46D-AA7DE7842560}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 2. Creating Constructors", "Problem 2. Creating Constructors", "{5DF6DFC1-94DA-4191-A46D-AA7DE7842560}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2", "Problem 2\Problem 2.csproj", "{70580BB7-29AD-4E4E-9D5B-5C97B2FAC029}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 2", "Problem 2\Problem 2.csproj", "{70580BB7-29AD-4E4E-9D5B-5C97B2FAC029}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 3", "Problem 3", "{4899A590-D9B6-463D-B354-4847AD67116F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 3. Oldest Family Member", "Problem 3. Oldest Family Member", "{4899A590-D9B6-463D-B354-4847AD67116F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3", "Problem 3\Problem 3.csproj", "{D6966075-0896-4108-953C-CA83C2879FF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 3", "Problem 3\Problem 3.csproj", "{D6966075-0896-4108-953C-CA83C2879FF1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 4", "Problem 4", "{83A697A6-8746-4A78-84CD-C7605CB83A96}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 4. Opinion Poll", "Problem 4. Opinion Poll", "{83A697A6-8746-4A78-84CD-C7605CB83A96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4", "Problem 4\Problem 4.csproj", "{6EDE92A6-DEA1-47CB-95CE-5603C752B0E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 4", "Problem 4\Problem 4.csproj", "{6EDE92A6-DEA1-47CB-95CE-5603C752B0E3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 5", "Problem 5", "{E19136B8-BB3B-4D61-89BE-3F70B3D06DB2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 5. Date Modifier", "Problem 5. Date Modifier", "{E19136B8-BB3B-4D61-89BE-3F70B3D06DB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5", "Problem 5\Problem 5.csproj", "{8C071D13-7760-43FC-8354-EC81CDB490C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 5", "Problem 5\Problem 5.csproj", "{8C071D13-7760-43FC-8354-EC81CDB490C3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 6", "Problem 6", "{8CC2F548-C24E-4602-9B7E-60C04802321E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 6. Company Roster", "Problem 6. Company Roster", "{8CC2F548-C24E-4602-9B7E-60C04802321E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6", "Problem 6\Problem 6.csproj", "{401482B3-0EE5-4444-ABC9-A64C1C4A1A70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 6", "Problem 6\Problem 6.csproj", "{401482B3-0EE5-4444-ABC9-A64C1C4A1A70}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 7", "Problem 7", "{330E403E-9CDB-4218-AAFE-D3724E9A2A09}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem 7. Speed Racing", "Problem 7. Speed Racing", "{330E403E-9CDB-4218-AAFE-D3724E9A2A09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7", "Problem 7\Problem 7.csproj", "{076B2030-4CF7-4B12-939B-C9029E3B2B0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 7", "Problem 7\Problem 7.csproj", "{076B2030-4CF7-4B12-939B-C9029E3B2B0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,15 @@
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 1\bin\Debug\net6.0\Define a class Person.exe
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 1\bin\Debug\net6.0\Define a class Person.deps.json
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 1\bin\Debug\net6.0\Define a class Person.runtimeconfig.json
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 1\bin\Debug\net6.0\Define a class Person.dll
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 1\bin\Debug\net6.0\Define a class Person.pdb
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 1\obj\Debug\net6.0\Define a class Person.csproj.AssemblyReference.cache
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 1\obj\Debug\net6.0\Define a class Person.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 1\obj\Debug\net6.0\Define a class Person.AssemblyInfoInputs.cache
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 1\obj\Debug\net6.0\Define a class Person.AssemblyInfo.cs
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 1\obj\Debug\net6.0\Define a class Person.csproj.CoreCompileInputs.cache
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 1\obj\Debug\net6.0\Define a class Person.dll
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 1\obj\Debug\net6.0\refint\Define a class Person.dll
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 1\obj\Debug\net6.0\Define a class Person.pdb
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 1\obj\Debug\net6.0\Define a class Person.genruntimeconfig.cache
+E:\Advanced Programming\Bai tap\Exercise Class Object\Problem 1\obj\Debug\net6.0\ref\Define a class Person.dll

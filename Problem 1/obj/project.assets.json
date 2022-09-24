@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 1\\Problem 1.csproj",
-      "projectName": "Problem 1",
-      "projectPath": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 1\\Problem 1.csproj",
+      "projectUniqueName": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 1\\Define a class Person.csproj",
+      "projectName": "Define a class Person",
+      "projectPath": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 1\\Define a class Person.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "E:\\Advanced Programming\\Bai tap\\Exercise Class Object\\Problem 1\\obj\\",
       "projectStyle": "PackageReference",
